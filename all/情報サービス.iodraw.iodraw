@@ -139,8 +139,8 @@
         <mxCell id="y7DWN_l31gwpPQ-gfIT_-9" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:true,&amp;quot;start&amp;quot;:1488,&amp;quot;end&amp;quot;:1596},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1521,&amp;quot;end&amp;quot;:1557},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1544,&amp;quot;end&amp;quot;:1557},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1544,&amp;quot;end&amp;quot;:1557}]&quot;&gt;Upwork&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="270" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="y7DWN_l31gwpPQ-gfIT_-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="785" y="128" width="50" height="30" as="geometry" />
+        <mxCell id="y7DWN_l31gwpPQ-gfIT_-10" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:true,&amp;quot;start&amp;quot;:1647,&amp;quot;end&amp;quot;:1743},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1670,&amp;quot;end&amp;quot;:1705},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1693,&amp;quot;end&amp;quot;:1705},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1693,&amp;quot;end&amp;quot;:1705}]&quot;&gt;Vokle&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="715" y="70" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
