@@ -133,6 +133,9 @@
         <mxCell id="y7DWN_l31gwpPQ-gfIT_-7" value="&lt;p style=&quot;font-size: 6px;&quot; data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:735,&amp;quot;end&amp;quot;:889},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:770,&amp;quot;end&amp;quot;:830},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:793,&amp;quot;end&amp;quot;:827},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:793,&amp;quot;end&amp;quot;:809}]&quot;&gt;Facebook，&lt;span style=&quot;background-color: initial;&quot;&gt;Instagram&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="280" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="y7DWN_l31gwpPQ-gfIT_-8" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1287,&amp;quot;end&amp;quot;:1445},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1322,&amp;quot;end&amp;quot;:1376},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1345,&amp;quot;end&amp;quot;:1373},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1345,&amp;quot;end&amp;quot;:1358}]&quot;&gt;Slack,&lt;span style=&quot;background-color: initial;&quot;&gt;Skype&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="148" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
