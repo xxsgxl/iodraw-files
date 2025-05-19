@@ -76,7 +76,7 @@
         <mxCell id="vmQu2RGKCpmwiiBlGAUv-32" value="&lt;h3 data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;イベント・レビュー型&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="533" y="300" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vmQu2RGKCpmwiiBlGAUv-33" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1138,&amp;quot;end&amp;quot;:1244},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1172,&amp;quot;end&amp;quot;:1208},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1195,&amp;quot;end&amp;quot;:1205},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1195,&amp;quot;end&amp;quot;:1205}]&quot;&gt;ask.fm、X&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillStyle=hatch;" parent="1" vertex="1">
+        <mxCell id="vmQu2RGKCpmwiiBlGAUv-33" value="&lt;table class=&quot;w-fit min-w-(--thread-content-width)&quot; data-end=&quot;1540&quot; data-start=&quot;1055&quot;&gt;&lt;tbody data-end=&quot;1540&quot; data-start=&quot;1296&quot;&gt;&lt;tr data-end=&quot;1540&quot; data-start=&quot;1414&quot;&gt;&lt;td data-end=&quot;1540&quot; data-start=&quot;1504&quot; data-col-size=&quot;sm&quot;&gt;Ask.fm、Muut&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="ellipse;whiteSpace=wrap;html=1;fillStyle=hatch;" parent="1" vertex="1">
           <mxGeometry x="668" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vmQu2RGKCpmwiiBlGAUv-34" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1138,&amp;quot;end&amp;quot;:1244},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1138,&amp;quot;end&amp;quot;:1171},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1153,&amp;quot;end&amp;quot;:1168},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1153,&amp;quot;end&amp;quot;:1168}]&quot;&gt;Wikia、Pulse&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillStyle=hatch;" parent="1" vertex="1">
@@ -157,8 +157,8 @@
         <mxCell id="y7DWN_l31gwpPQ-gfIT_-17" value="コミュニケーション" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="211" y="195" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y7DWN_l31gwpPQ-gfIT_-18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Reddit、Muut&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="694.5" y="380" width="67" height="26" as="geometry" />
+        <mxCell id="y7DWN_l31gwpPQ-gfIT_-18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Reddit、Bookmeter&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="684.5" y="380" width="88" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
