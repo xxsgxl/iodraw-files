@@ -124,6 +124,9 @@
         <mxCell id="y7DWN_l31gwpPQ-gfIT_-4" value="&lt;div style=&quot;font-size: 7px;&quot;&gt;ask.fm，&lt;span style=&quot;background-color: initial;&quot;&gt;Muut，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PumpUp，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tinder&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;perimeterSpacing=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="115" width="130" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="y7DWN_l31gwpPQ-gfIT_-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="198" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
