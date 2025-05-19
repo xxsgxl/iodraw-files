@@ -40,7 +40,7 @@
         <mxCell id="vmQu2RGKCpmwiiBlGAUv-17" value="&lt;b&gt;情報探索&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="385" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vmQu2RGKCpmwiiBlGAUv-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillStyle=hatch;" parent="1" vertex="1">
+        <mxCell id="vmQu2RGKCpmwiiBlGAUv-18" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1287,&amp;quot;end&amp;quot;:1445},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1377,&amp;quot;end&amp;quot;:1445},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1399,&amp;quot;end&amp;quot;:1445},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1399,&amp;quot;end&amp;quot;:1411}]&quot;&gt;Line,&lt;span style=&quot;background-color: initial;&quot;&gt;WeChat,&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Weebly&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillStyle=hatch;" parent="1" vertex="1">
           <mxGeometry x="520" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vmQu2RGKCpmwiiBlGAUv-19" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1287,&amp;quot;end&amp;quot;:1445},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1287,&amp;quot;end&amp;quot;:1321},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1302,&amp;quot;end&amp;quot;:1318},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1302,&amp;quot;end&amp;quot;:1318}]&quot;&gt;Flow-Flow&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillStyle=hatch;" parent="1" vertex="1">
@@ -134,7 +134,7 @@
           <mxGeometry x="220" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y7DWN_l31gwpPQ-gfIT_-8" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1287,&amp;quot;end&amp;quot;:1445},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1322,&amp;quot;end&amp;quot;:1376},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1345,&amp;quot;end&amp;quot;:1373},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1345,&amp;quot;end&amp;quot;:1358}]&quot;&gt;Slack,&lt;span style=&quot;background-color: initial;&quot;&gt;Skype&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="148" width="90" height="50" as="geometry" />
+          <mxGeometry x="535" y="70" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
