@@ -91,13 +91,13 @@
         <mxCell id="vmQu2RGKCpmwiiBlGAUv-37" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:true,&amp;quot;start&amp;quot;:1488,&amp;quot;end&amp;quot;:1596},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1488,&amp;quot;end&amp;quot;:1519},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1503,&amp;quot;end&amp;quot;:1519},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1503,&amp;quot;end&amp;quot;:1519}]&quot;&gt;99designs&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillStyle=hatch;" parent="1" vertex="1">
           <mxGeometry x="520" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vmQu2RGKCpmwiiBlGAUv-38" value="&lt;h3 data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 4px;&quot;&gt;プロフェッショナルサービス型&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vmQu2RGKCpmwiiBlGAUv-38" value="&lt;h3 data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;プロフェッショナルサービス型&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="545" y="200" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vmQu2RGKCpmwiiBlGAUv-39" value="" style="ellipse;whiteSpace=wrap;html=1;fillStyle=hatch;" parent="1" vertex="1">
           <mxGeometry x="680" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vmQu2RGKCpmwiiBlGAUv-40" value="" style="ellipse;whiteSpace=wrap;html=1;fillStyle=hatch;" parent="1" vertex="1">
+        <mxCell id="vmQu2RGKCpmwiiBlGAUv-40" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:true,&amp;quot;start&amp;quot;:1769,&amp;quot;end&amp;quot;:1878},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1769,&amp;quot;end&amp;quot;:1797},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1784,&amp;quot;end&amp;quot;:1797},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1784,&amp;quot;end&amp;quot;:1797}]&quot;&gt;Zaarly&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillStyle=hatch;" parent="1" vertex="1">
           <mxGeometry x="680" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vmQu2RGKCpmwiiBlGAUv-41" value="&lt;h3 data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;マーケットプレイス・資金調達型&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
