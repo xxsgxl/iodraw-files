@@ -142,6 +142,9 @@
         <mxCell id="y7DWN_l31gwpPQ-gfIT_-10" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:true,&amp;quot;start&amp;quot;:1647,&amp;quot;end&amp;quot;:1743},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1670,&amp;quot;end&amp;quot;:1705},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1693,&amp;quot;end&amp;quot;:1705},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1693,&amp;quot;end&amp;quot;:1705}]&quot;&gt;Vokle&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="715" y="70" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="y7DWN_l31gwpPQ-gfIT_-11" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:true,&amp;quot;start&amp;quot;:1769,&amp;quot;end&amp;quot;:1878},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1799,&amp;quot;end&amp;quot;:1836},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:1822,&amp;quot;end&amp;quot;:1836},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:1822,&amp;quot;end&amp;quot;:1836}]&quot;&gt;Shopify&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="358" width="60" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
