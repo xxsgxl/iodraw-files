@@ -145,6 +145,18 @@
         <mxCell id="y7DWN_l31gwpPQ-gfIT_-14" value="コミュニケーション" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-97" y="295" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="y7DWN_l31gwpPQ-gfIT_-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-92" y="117" as="sourcePoint" />
+            <mxPoint x="-92" y="77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y7DWN_l31gwpPQ-gfIT_-16" value="検索" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-97" y="65" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y7DWN_l31gwpPQ-gfIT_-17" value="コミュニケーション" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-97" y="95" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
