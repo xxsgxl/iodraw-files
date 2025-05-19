@@ -127,8 +127,8 @@
         <mxCell id="y7DWN_l31gwpPQ-gfIT_-5" value="&lt;p style=&quot;font-size: 6px;&quot; data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:333,&amp;quot;end&amp;quot;:489},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:366,&amp;quot;end&amp;quot;:422},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:389,&amp;quot;end&amp;quot;:419},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:389,&amp;quot;end&amp;quot;:403}]&quot;&gt;ニコニコ動画，&lt;span style=&quot;background-color: initial;&quot;&gt;Spotify&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="280" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y7DWN_l31gwpPQ-gfIT_-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="315" y="78" width="50" height="30" as="geometry" />
+        <mxCell id="y7DWN_l31gwpPQ-gfIT_-6" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:527,&amp;quot;end&amp;quot;:712},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:585,&amp;quot;end&amp;quot;:627},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:608,&amp;quot;end&amp;quot;:624},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:608,&amp;quot;end&amp;quot;:624}]&quot;&gt;Delicious&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="68" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
